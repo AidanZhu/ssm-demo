@@ -1,5 +1,0 @@
-com\ssm\demo\service\impl\IUserServiceImpl.class
-com\ssm\demo\dao\IUserDAO.class
-com\ssm\demo\entity\User.class
-com\ssm\demo\service\IUserService.class
-com\ssm\demo\controller\UserController.class
